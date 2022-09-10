@@ -1,4 +1,4 @@
-# Effective-Heart-Disease-Prediction-Using-IBM-Auto-AI-Service-Effective Heart Disease Prediction Using IBM Auto AI Service--
+# Effective-Heart-Disease-Prediction-Using-IBM-Auto-AI-Service-
 
 
 Project Description:
